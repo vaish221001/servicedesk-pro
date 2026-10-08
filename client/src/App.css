@@ -1,0 +1,8 @@
+/* App-level specific layout and animations */
+.fade-in {
+  animation: fadeIn 200ms ease-in-out;
+}
+
+.slide-up {
+  animation: scaleUp 200ms ease-out;
+}
